@@ -65,6 +65,6 @@ $ kubectl delete service client-node-port
 ``````
 
 ## Creating a Secret 
-![Screenshot_11](https://user-images.githubusercontent.com/56122568/113734450-06856180-9704-11eb-9321-5e3cc238422a.png)
+![1](https://user-images.githubusercontent.com/56122568/113734450-06856180-9704-11eb-9321-5e3cc238422a.png)
 
 
